@@ -1,0 +1,14 @@
+52e52213211e0cd2f44c3ea8ad03c67d *DESCRIPTION
+b6b099e5d199b159eb3dd0a1206ead4a *LICENSE
+b006219971ecbff6b545f55c239bd798 *NAMESPACE
+c15da551e75121349e6afd12d6036755 *NEWS.md
+db9a9ab1bbd70ad4cd4ddd46187a79e5 *R/data.R
+5eace63b4dc23de52bbfa576a39938cf *R/where_iata.R
+b4fe12876c37f8a22cde06e9701eecf0 *R/whereport-package.R
+588c4d0e0432f6cf626f313185b765b1 *README.md
+fa09a39260693f1033aaad354fce4c26 *data/Data_IATA.rda
+60d9fbfe0873a4c4a7368d7fc605828b *man/Data_IATA.Rd
+1135f41a474ae1a8c65c5a53e08ad4c3 *man/where_iata.Rd
+67516a72e6ab71119f5a753df730e9cd *man/whereport-package.Rd
+54c9ad3ce4f77c893af69407f8698684 *tests/testthat.R
+e8ef3c2a90ac75ebddd1cb3468f489e1 *tests/testthat/test-where_iata.R
